@@ -12,4 +12,4 @@
 
 
 <div align=center><img src="demo/physical images.jpg" width="1000" height="600" /></div>
-<p align="center">physical images<p align="center">
+<p align="center">Physical Images<p align="center">
